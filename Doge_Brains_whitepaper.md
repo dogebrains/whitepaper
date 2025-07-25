@@ -17,10 +17,9 @@
 9. [Development Roadmap](#9-development-roadmap)
 10. [$BRAINS Tokenomics](#10-brains-tokenomics)
 11. [Risk Management Framework](#11-risk-management-framework)
-12. [Listing Plans](#12-listing-plans)
-13. [Issuer Information](#13-issuer-information)
-14. [Disclaimer](#14-disclaimer)
-15. [Conclusion](#15-conclusion)
+12. [Issuer Information](#12-issuer-information)
+13. [Disclaimer](#13-disclaimer)
+14. [Conclusion](#14-conclusion)
 
 ## 1. Synopsis
 
@@ -315,19 +314,7 @@ $BRAINSc credits provide stable pricing:
 - Diversified burn mechanisms
 - Adaptive tokenomics
 
-## 12. Listing Plans
-
-**DEX Strategy (Q3-Q4 2025):**
-- Primary: Uniswap V3 (Ethereum)
-- Fair launch with anti-bot protection
-- 2% burn tax on transactions
-
-**CEX Timeline (Q4 2025 - Q1 2026):**
-- Phase 1: Mid-tier exchanges
-- Phase 2: Regional exchanges
-- Phase 3: Major global exchanges
-
-## 13. Issuer Information
+## 12. Issuer Information
 
 **Capital Insights Ltd.**
 - BVI Business Company (No. 2181301)
@@ -335,7 +322,7 @@ $BRAINSc credits provide stable pricing:
 - Specializes in AI-based analytics solutions
 - Full regulatory compliance maintained
 
-## 14. Disclaimer
+## 13. Disclaimer
 
 **IMPORTANT NOTICE:** This whitepaper describes the Doge Brains platform and $BRAINS token utility. The free dashboard is currently live. Token and premium features are in development.
 
@@ -343,7 +330,7 @@ $BRAINSc credits provide stable pricing:
 
 **NOT FINANCIAL ADVICE:** Doge Brains provides data and tools. Users are responsible for their own trading decisions.
 
-## 15. Conclusion
+## 14. Conclusion
 
 **"Professional Crypto Intelligence - Free for Everyone, Premium for Pros"**
 
