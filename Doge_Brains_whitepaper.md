@@ -148,21 +148,6 @@ Natural language processing enables intuitive interaction:
 
 ## 6. Platform Features
 
-### Feature Comparison Table
-
-| **FEATURE** | **FREE TIER** | **BRONZE** | **SILVER** | **GOLD** | **DIAMOND** |
-|-------------|---------------|------------|------------|----------|-------------|
-| **$BRAINS-sp Required** | 0 | 5,000 | 25,000 | 100,000 | 500,000 |
-| **Monthly Credits** | 0 | 10,000 ($100) | 25,000 ($250) | 50,000 ($500) | 100,000 ($1,000) |
-| **AI Chat Queries** | 5/hour | 20/hour | 100/hour | Unlimited | Unlimited |
-| **Whale Alerts** | 3/day | 10/day | 50/day | Unlimited | Unlimited |
-| **Custom Alerts** | 0 | 5 | 25 | 100 | Unlimited |
-| **Social Feed** | Last 10 posts | 50 posts | Full access | Full access | Full access |
-| **Copy Trading** | ❌ | ❌ | ✅ | ✅ | ✅ |
-| **Manipulation Detection** | ❌ | ❌ | ❌ | ✅ | ✅ |
-| **Revenue Share** | ❌ | ❌ | ❌ | 10% | 25% |
-| **Private Discord** | ❌ | ❌ | ❌ | ❌ | ✅ |
-
 ### Unique Platform Features
 
 **Intelligence Tools:**
